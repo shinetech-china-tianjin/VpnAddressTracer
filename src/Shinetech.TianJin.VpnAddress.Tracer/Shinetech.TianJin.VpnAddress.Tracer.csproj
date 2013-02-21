@@ -39,11 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DefaultVpnAddressProviderFactory.cs" />
+    <Compile Include="VpnAddressProviderFactories\DefaultVpnAddressProviderFactory.cs" />
     <Compile Include="VpnAddressProviders\GitHubRawPageProvider.cs" />
-    <Compile Include="IVpnAddressProvider.cs" />
+    <Compile Include="VpnAddressProviders\IVpnAddressProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VpnAddressProviderFactory.cs" />
+    <Compile Include="VpnAddressProviderFactories\VpnAddressProviderFactory.cs" />
     <Compile Include="VpnAddressRetriever.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
