@@ -7,8 +7,8 @@
     <ProjectGuid>{C11DD3AC-F79C-41B4-9E10-A6DDF36B6430}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Shinetech.TianJin.VpnAddress.Tracer</RootNamespace>
-    <AssemblyName>Shinetech.TianJin.VpnAddress.Tracer</AssemblyName>
+    <RootNamespace>Shinetech.TianJin.VpnAddressTracer</RootNamespace>
+    <AssemblyName>Shinetech.TianJin.VpnAddressTracer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

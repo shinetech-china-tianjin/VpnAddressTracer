@@ -1,4 +1,4 @@
-﻿using Shinetech.TianJin.VpnAddress.Tracer;
+﻿using Shinetech.TianJin.VpnAddressTracer;
 using System;
 using System.Collections.Generic;
 using System.Linq;

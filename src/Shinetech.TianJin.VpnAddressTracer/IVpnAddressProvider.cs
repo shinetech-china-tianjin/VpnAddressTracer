@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shinetech.TianJin.VpnAddress.Tracer
+namespace Shinetech.TianJin.VpnAddressTracer
 {
     public interface IVpnAddressProvider
     {

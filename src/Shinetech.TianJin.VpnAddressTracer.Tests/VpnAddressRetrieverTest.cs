@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Shinetech.TianJin.VpnAddress.Tracer;
+using Shinetech.TianJin.VpnAddressTracer;
 
 namespace Shinetech.TianJin.VpnAddressTracer.Tests
 {

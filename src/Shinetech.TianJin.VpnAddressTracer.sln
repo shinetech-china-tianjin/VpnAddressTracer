@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shinetech.TianJin.VpnAddress.Tracer", "Shinetech.TianJin.VpnAddress.Tracer\Shinetech.TianJin.VpnAddress.Tracer.csproj", "{C11DD3AC-F79C-41B4-9E10-A6DDF36B6430}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shinetech.TianJin.VpnAddressTracer", "Shinetech.TianJin.VpnAddressTracer\Shinetech.TianJin.VpnAddressTracer.csproj", "{C11DD3AC-F79C-41B4-9E10-A6DDF36B6430}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shinetech.TianJin.VpnAddressTracer.Tests", "Shinetech.TianJin.VpnAddressTracer.Tests\Shinetech.TianJin.VpnAddressTracer.Tests.csproj", "{8BDDAE35-0D0E-42F4-AA84-434044B188F0}"
 EndProject

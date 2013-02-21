@@ -57,7 +57,7 @@
     <Compile Include="TestingHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Shinetech.TianJin.VpnAddress.Tracer\Shinetech.TianJin.VpnAddress.Tracer.csproj">
+    <ProjectReference Include="..\Shinetech.TianJin.VpnAddressTracer\Shinetech.TianJin.VpnAddressTracer.csproj">
       <Project>{c11dd3ac-f79c-41b4-9e10-a6ddf36b6430}</Project>
       <Name>Shinetech.TianJin.VpnAddress.Tracer</Name>
     </ProjectReference>

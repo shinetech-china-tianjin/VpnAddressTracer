@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Shinetech.TianJin.VpnAddress.Tracer")]
+[assembly: AssemblyTitle("Shinetech.TianJin.VpnAddressTracer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Shinetech.TianJin.VpnAddress.Tracer")]
+[assembly: AssemblyProduct("Shinetech.TianJin.VpnAddressTracer")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
