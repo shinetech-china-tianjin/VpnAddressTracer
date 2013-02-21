@@ -2,22 +2,16 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
 [assembly: AssemblyTitle("Shinetech.TianJin.VpnAddressTracer.Tests")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Shinetech.TianJin.VpnAddressTracer.Tests")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyDescription("Shinetech China TianJin team vpn address tracer tests.")]
+[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyCompany("Shinetech")]
+[assembly: AssemblyProduct("Shinetech.TianJin.VpnAddressTracer")]
+[assembly: AssemblyCopyright("Copyright © Shinetech Software Inc. 2013 - Lu Rongkai")]
+[assembly: AssemblyTrademark(" Shinetech Software Inc.")]
+[assembly: AssemblyCulture("en-US")]
 
-// Setting ComVisible to false makes the types in this assembly not visible 
-// to COM components.  If you need to access a type in this assembly from 
-// COM, set the ComVisible attribute to true on that type.
-[assembly: ComVisible(false)]
+[assembly: ComVisible(true)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("69385d83-208a-4d1a-a02a-037b3d44b7ea")]
@@ -34,3 +28,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyKeyFile("Shinetech.LuRongkai.snk")]

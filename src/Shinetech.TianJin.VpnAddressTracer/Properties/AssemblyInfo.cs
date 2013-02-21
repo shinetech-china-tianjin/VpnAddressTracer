@@ -2,24 +2,16 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
 [assembly: AssemblyTitle("Shinetech.TianJin.VpnAddressTracer")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyDescription("Shinetech China TianJin team vpn address tracer")]
+[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyCompany("Shinetech")]
 [assembly: AssemblyProduct("Shinetech.TianJin.VpnAddressTracer")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyCopyright("Copyright © Shinetech Software Inc. 2013 - Lu Rongkai")]
+[assembly: AssemblyTrademark(" Shinetech Software Inc.")]
+[assembly: AssemblyCulture("en-US")]
 
-// Setting ComVisible to false makes the types in this assembly not visible 
-// to COM components.  If you need to access a type in this assembly from 
-// COM, set the ComVisible attribute to true on that type.
-[assembly: ComVisible(false)]
-
-// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: ComVisible(true)]
 [assembly: Guid("e7444d58-1458-4615-80fb-7d0b4cd63769")]
 
 // Version information for an assembly consists of the following four values:
@@ -34,3 +26,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyKeyFile("Shinetech.LuRongkai.snk")]
+[assembly: InternalsVisibleTo("Shinetech.TianJin.VpnAddressTracer.Tests, PublicKey=0024000004800000940000000602000000240000525341310004000001000100fdc4b7f5701e087394cfc62a6149750e4080335f8999cd6c7dc77b250bafa35b0736ccead8840e7e61ceba4f8d787a781b3fa6ff9f14fcbf8c305bf5a32058d31555e214e8953b8b5f36a96b0751fae6a03a80707b0b8538fe9a553da0077ff888ebe7f6d3a5da4492108108db5780e842519c61f6fd1f85be0bf03c60bda5bd")]
