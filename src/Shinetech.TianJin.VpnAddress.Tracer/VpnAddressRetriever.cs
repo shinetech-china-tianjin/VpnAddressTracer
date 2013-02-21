@@ -9,8 +9,8 @@ namespace Shinetech.TianJin.VpnAddress.Tracer
 {
     public class VpnAddressRetriever
     {
-        private VpnAddressProviderFactory providerFactory;
-        public VpnAddressRetriever(VpnAddressProviderFactory vpnAddressProviderFactory = null) {
+        private IVpnAddressProviderFactory providerFactory;
+        public VpnAddressRetriever(IVpnAddressProviderFactory vpnAddressProviderFactory = null) {
             providerFactory = vpnAddressProviderFactory ?? new DefaultVpnAddressProviderFactory();
         }
 

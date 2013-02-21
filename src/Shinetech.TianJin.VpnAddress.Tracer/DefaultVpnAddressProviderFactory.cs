@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Shinetech.TianJin.VpnAddress.Tracer
 {
-    internal class DefaultVpnAddressProviderFactory: VpnAddressProviderFactory
+    internal class DefaultVpnAddressProviderFactory: IVpnAddressProviderFactory
     {
-        public override IVpnAddressProvider GetVpnAddressProvider() {
+        public IVpnAddressProvider GetVpnAddressProvider() {
             return new GitHubRawPageProvider();
         }
     }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Shinetech.TianJin.VpnAddress.Tracer
 {
-    public abstract class VpnAddressProviderFactory
+    public interface IVpnAddressProviderFactory
     {
-        public abstract IVpnAddressProvider GetVpnAddressProvider();
+        IVpnAddressProvider GetVpnAddressProvider();
     }
 }
