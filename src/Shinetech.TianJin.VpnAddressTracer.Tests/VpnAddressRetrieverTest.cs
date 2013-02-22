@@ -18,7 +18,6 @@ namespace Shinetech.TianJin.VpnAddressTracer.Tests
         [TestMethod]
         public void FakeProviderTest() {
             var retriever = new VpnAddressRetriever(new FakeVpnAddressProviderFactory());
-
             var newestIpAddress = retriever.GetVpnAddress();
 
             Assert.AreEqual(newestIpAddress, TestingHelper.FakeVpnAddress);
