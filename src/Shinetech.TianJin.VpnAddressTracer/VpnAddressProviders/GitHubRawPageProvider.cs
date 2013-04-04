@@ -10,7 +10,7 @@ namespace Shinetech.TianJin.VpnAddressTracer
 {
     internal class GitHubRawPageProvider : IVpnAddressProvider
     {
-        private const string VpnAddressPublishPageUrl = "https://raw.github.com/shinetech-china-tianjin/VpnAddressTracer/master/vpn.address";
+        private const string VpnAddressPublishPageUrl = "https://raw.github.com/shinetech-china-tianjin/VpnAddressHoster/vpn-address/vpn.address";
 
         public IPAddress ParseVpnAddress() {
             var request = HttpWebRequest.Create(VpnAddressPublishPageUrl);
